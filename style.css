@@ -1,0 +1,91 @@
+body{
+    background-color: rgba(165, 236, 175, 0.932);
+}
+header{
+    background-color: rgb(159, 190, 152);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: rgb(12, 1, 1);
+
+}
+.pagina1{
+    text-align: center;
+    overflow: auto;
+}
+#foto1{
+    display: block;
+    float: left;    
+    margin-right:70px; 
+    width: 10%; 
+}
+#foto3{
+    display: block;
+    float: right;    
+    margin-left: 90px; 
+    width: 30%; 
+}
+.header {
+    height: 150px; 
+    position: relative; 
+}
+
+.header img {
+    width: auto; 
+    height: 80%; 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    object-fit: cover; 
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+p{
+    margin-right: 20px;
+    color: rgb(0, 0, 0);
+}
+.titulo1{
+    background: rgb(179, 228, 147);
+}
+.titulo2{
+    background: rgb(91, 129, 107);
+
+}
+
+.titulo2 {
+    border: 10px solid rgb(22, 1, 1); 
+    display: inline-block; 
+    padding: 5px; 
+    width: 50%;
+  }
+#foto2{
+    width: 50%;
+  }
+#foto3{
+    width: 50%;
+  }
+.pagina2{
+    text-align: center;
+    overflow: auto;
+    margin-top: 40px;
+} 
+h3{
+    color: rgb(12, 1, 1);
+   width: -50%;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 60px
+}
