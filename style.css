@@ -54,6 +54,7 @@ li{
 p{
     margin-right: 20px;
     color: rgb(26, 2, 2);
+    background-color: rgb(179, 228, 147);
 }
 .titulo1{
     background: rgb(179, 228, 147);
@@ -81,7 +82,8 @@ p{
 .pagina2{
     text-align: center;
     overflow: auto;
-    margin-top: 40px;
+    margin-top: 100px;
+    background-color: rgb(106, 224, 169);
 } 
 h3{
     color: rgb(12, 1, 1);
@@ -131,4 +133,5 @@ h4{
     text-align: center; 
     border: 5px solid rgb(22, 1, 1);
     margin-left: 5px;
+    background-color: rgb(179, 228, 147);
 }
